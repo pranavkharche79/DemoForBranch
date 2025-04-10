@@ -16,3 +16,8 @@ function kjbgfdsb(){
 function isEven(number) {
     return number % 2 === 0;
 }
+
+// Function 3: Checks if a string is a palindrome
+function isPalindrome(string) {
+    return string === string.split('').reverse().join('');
+}
