@@ -1,5 +1,5 @@
 
-fun jsdgousoghdsjognlds(){
+function jsdgousoghdsjognlds(){
     dfkjg
 }
 
@@ -7,7 +7,15 @@ fun jsdgousoghdsjognlds(){
 function ksjgjswfjkj(a, b) {
     return a + b;
 }
+gdsg
+sdg
+DOMStringListdsg
+dispatchEventgds
+getComputedStyleds
+SVGFEBlendElementsg
 
+dfkjg
+DataTransfersdf
 function kjbgfdsb(){
     lgsn
 }
