@@ -69,10 +69,13 @@ dfs
 g
 // Function 2: Checks if a number is even
 function isEven(number) {
+    gfhgfnrt
+    fghgfh
+    gfhgh
     sf
     fg
     sg
-    fkjngkfsn return number % 2 === 0;smfng
+    fkjngkfsn fghgfdh return number % 2 === 0;fghgsmfng
 }
 sf,mg
 sdg
