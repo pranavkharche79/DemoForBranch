@@ -1,4 +1,4 @@
-
+Pranav
 function jsdgousoghdsjognlds(){
     dfkjg
 }
@@ -7,6 +7,10 @@ knvsd
 adkjfjds
 dskljg
 dgkldsg
+dsgdfg
+dfsgfg
+dfh
+df
 sdgndsg
 dsngds'g
     sdgknsdgkl
@@ -50,28 +54,43 @@ dfs
 g
 // Function 2: Checks if a number is even
 function isEven(number) {
-    return number % 2 === 0;
+    GamepadHapticActuatordgh
+    fghn
+    gfhfg
+    hnh
+    return number % 2 === 0;ngfn
 }
 sf,mg
 sdg
 sdg
 sg
+df
 ds
+dispatchEventgds
 gds
 gds
+gb
 g
 ds
 // Function 3: Checks if a string is a palindrome
 function isPalindrome(string) {
-    return string === string.split('').reverse().join('');
+    gfhfg
+    gfhfggf
+    gfhfggfgf
+    gfhfggf
+    vbnfgngfnreturn string === string.split('').reverse().join('');
 }
 sdgdsgds
 dsg
 dsg
 ds
+gbcv
+dg
 gds
 gds
+nfg
 gds
 gds
-gds
+gfhgfn
+fggds
 g
