@@ -72,7 +72,10 @@ function isEven(number) {
     gfhgfnrt
     fghgfh
     gfhgh
-    fghgfdh return number % 2 === 0;fghg
+    sf
+    fg
+    sg
+    fkjngkfsn fghgfdh return number % 2 === 0;fghgsmfng
 }
 sf,mg
 sdg
