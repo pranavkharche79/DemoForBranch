@@ -1,5 +1,5 @@
 
-fun jsdgousoghdsjognlds(){
+function jsdgousoghdsjognlds(){
     dfkjg
 }
 x,mv,mb
@@ -16,6 +16,15 @@ dsngds'g
 function ksjgjswfjkj(a, b) {
     return a + b;
 }
+gdsg
+sdg
+DOMStringListdsg
+dispatchEventgds
+getComputedStyleds
+SVGFEBlendElementsg
+
+dfkjg
+DataTransfersdf
 lknsfngkl
 sdf
 sdg
